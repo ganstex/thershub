@@ -1,0 +1,3 @@
+if game.PlaceId == 8246874626
+ print("you're in that game!")
+end

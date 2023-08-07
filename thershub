@@ -1,4 +1,4 @@
-if game.PlaceId == 4520749081 then
+if game.PlaceId == 205224386 then
   print("El")
 elseif game.PlaceId==2753915549 then
   print("Yo")

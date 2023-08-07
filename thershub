@@ -1,3 +1,5 @@
-if game.PlaceId == 8246874626
- print("you're in that game!")
+if game.PlaceId == 4520749081 then
+  print("El")
+elseif game.PlaceId==2753915549 then
+  print("Yo")
 end

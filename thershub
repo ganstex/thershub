@@ -1,5 +1,5 @@
 if game.PlaceId == 205224386 then
-  print("El")
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/ganstex/thershub/main/hideandseek"))()
 elseif game.PlaceId==2753915549 then
   print("Yo")
 end
